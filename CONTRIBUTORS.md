@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Tapagorn](p.tapagorn@gmail.com)
